@@ -136,7 +136,7 @@ main a {
 
 main a:hover {
     text-decoration: underline;
-    color: var(--cor4);
+    color: var(--cor2);
 }
 
 main img {
