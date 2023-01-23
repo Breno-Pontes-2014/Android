@@ -181,7 +181,7 @@ aside > h3 {
 }
 
 aside > ul {
-    list-style-type: '\2714\00A0\00A0';
+    list-style-type: circle;
     list-style-position: inside;
     columns: 2;
 }
