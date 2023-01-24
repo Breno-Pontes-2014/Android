@@ -181,7 +181,7 @@ aside > h3 {
 }
 
 aside > ul {
-    list-style-type: circle;
+    list-style-type: disc;
     list-style-position: inside;
     columns: 2;
 }
