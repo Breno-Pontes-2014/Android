@@ -1,5 +1,5 @@
 @charset "UTF-8";
-:root{
+:root {
     --cor0: #ebe5c5;
     --cor1: #83e1ad;
     --cor2: #3ddc84;
@@ -11,22 +11,8 @@
     --fonte-destaque: 'Bebas Neue', cursive;
     --fonte-android: 'Android', cursive;
 }
+
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: var(--cor2);
-    color: black;
-    text-align: center;
-}
-button{
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 5px;
-    padding: 10px;
-}
-button:active{
-    color: var(--cor3);
-}
-button > a{
-    background-color: white;
-    color: black;
-    text-decoration: none;
+    background-color: var(--cor3);
 }
